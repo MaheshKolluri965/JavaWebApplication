@@ -1,0 +1,20 @@
+1 .Todo
+2. Todo Service
+3. Todo Controller
+4. Todo jsp page
+
+request vs ModelMap vs session
+
+/META-INF/resources/webjars/bootstrap/5.3.3/css/bootstrap.min.css
+/META-INF/resources/webjars/bootstrap/5.3.3/js/bootstrap.min.js
+/META-INF/resources/webjars/jquery/3.7.1/dist/jquery.min.js
+
+
+Validation with springboot
+1. Springboot Starter validation => pom.xml
+2. Command Bean(Form Backing Object) => 2-way binding (todo.jsp & TodoController.java)
+3. Add validations to Bean => Todo.java
+4. Display Validation Errors in the view => todo.jsp
+
+/META-INF/resources/webjars/bootstrap-datepicker/1.10.0/js/bootstrap-datepicker.min.js
+/META-INF/resources/webjars/bootstrap-datepicker/1.10.0/css/bootstrap-datepicker.min.css
